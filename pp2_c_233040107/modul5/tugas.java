@@ -57,7 +57,11 @@ public class tugas {
                     label.setText("Tombol CENTER diklik!");
                 });
 
+<<<<<<< HEAD
+                // tambahkan semua komponen sesuai posisinya
+=======
                 // tambah semua komponen sesuai posisinya
+>>>>>>> 9502431 (mengerjakan tugas modul 6)
                 frame.add(label, BorderLayout.NORTH);
                 frame.add(buttonSouth, BorderLayout.SOUTH);
                 frame.add(buttonWest, BorderLayout.WEST);
